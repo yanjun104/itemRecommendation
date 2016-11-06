@@ -1,0 +1,12 @@
+_office(printer).
+_office(bookshelf).
+_office(lamps).
+_office(stapler).
+_office(paper).
+_office(chair).
+_office(table).
+_office(projecter).
+_office(caculator).
+_office(monitors).
+_office(routers).
+_office(pen).

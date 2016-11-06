@@ -1,0 +1,9 @@
+_furniture(mattress).
+_furniture(bedbox).
+_furniture(bedframe).
+_furniture(nightstand).
+_furniture(cabinet).
+_furniture(sofa).
+_furniture(shoerack).
+_furniture(garmnetrack).
+_futniture(bookshelf).

@@ -1,0 +1,10 @@
+_kitchen(bowl).
+_kitchen(plate).
+_kitchen(chosticks).
+_kitchen(knife).
+_kitchen(fork).
+_kitchen(pot).
+_kitchen(blenders).
+_kitchen(teakettles).
+_kitchen(table).
+_kitchen(chair).
